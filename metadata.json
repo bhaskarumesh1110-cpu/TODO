@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Smart Todo List",
+  "description": "A full-stack Smart Todo List CRUD application for organizing daily tasks, tracking progress, and managing priorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
